@@ -62,7 +62,10 @@ p {
     border-bottom: rgb(33, 56, 110);
     text-align: center;
 }
-
+ul {
+  color: white;
+  text-align: center;
+}
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
