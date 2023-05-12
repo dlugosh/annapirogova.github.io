@@ -3,9 +3,10 @@ body {
     background-color: rgb(148, 211, 243);
 }
 
-.link-nav {
+nav {
     font-family: monospace;
     font-size: 20px;
+    text-align: center;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
@@ -20,6 +21,7 @@ h1 {
                6px 6px 0px #00c2cb,
                8px 8px 0px #ff7f50,
                10px 10px 0px #553c9a;
+    text-align: center;
   
 }
 
@@ -28,6 +30,7 @@ p {
     font-size: 25px;
     color: rgb(33, 56, 110);
     border-bottom: rgb(33, 56, 110);
+    text-align: center;
 }
 .header {
     height: 100vh;
